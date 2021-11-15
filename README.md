@@ -41,6 +41,6 @@ Initilisation du Git, puis une arborescence. Création du README, du fichier à 
 
 ### Modifcation du __script__.py
 
-Ajout de valeurs dans le '__script__.py', avec suppression des premiers messages
+Ajout de valeurs dans le '__script__.py', avec suppression du premier message
 
 ---
