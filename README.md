@@ -62,3 +62,7 @@ Ajout d'une ligne de commande pour le test de vision entre les branches
 ### Vérification première fusion
 
 Vérification de la fonction de merge et modification valeur __script__.py
+
+### Vérification erreur merge
+
+Test pour vérifier la fusion si des modifications ont été faites dans 2 branches
