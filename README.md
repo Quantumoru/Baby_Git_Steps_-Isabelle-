@@ -43,8 +43,14 @@ Initilisation du Git, puis une arborescence. Création du README, du fichier à 
 
 Ajout de valeurs dans le '__script__.py', avec suppression du premier message
 
-### Fix1
+### Modification nom commit
 
 Exercice : Modification du nom d'un commit Fix1 deviendra Modification nom commit
+
+## Branche Dev
+
+### Ajout fichier avec noms des personnages de Friendship is Magic
+
+Création d'un fichier txt avec le nom des personnages de 'Friendship is Magic (my little pony)
 
 ---
