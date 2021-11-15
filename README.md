@@ -47,10 +47,14 @@ Ajout de valeurs dans le '__script__.py', avec suppression du premier message
 
 Exercice : Modification du nom d'un commit Fix1 deviendra Modification nom commit
 
+---
+
 ## Branche Dev
 
 ### Ajout fichier avec noms des personnages de Friendship is Magic
 
 Création d'un fichier txt avec le nom des personnages de 'Friendship is Magic (my little pony)
 
----
+### Ajout valeur __script__.py
+
+Ajout d'une ligne de commande pour le test de vision entre les branches
