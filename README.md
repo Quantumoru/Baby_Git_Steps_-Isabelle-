@@ -58,3 +58,7 @@ Création d'un fichier txt avec le nom des personnages de 'Friendship is Magic (
 ### Ajout valeur __script__.py
 
 Ajout d'une ligne de commande pour le test de vision entre les branches
+
+### Vérification première fusion
+
+Vérification de la fonction de merge et modification valeur __script__.py
