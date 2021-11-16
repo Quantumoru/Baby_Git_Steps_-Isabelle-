@@ -76,3 +76,11 @@ Correction des erreurs de fusion suite aux modifcations des 2 branches
 ### Ajout capture écran Kraken
 
 Ajout d'une capture d'écran de l'arborescence de notre repository.
+
+### Ajout dossier capture
+
+Le premier n'a pas fonctionné.
+
+### Ajout capture après modification github
+
+Exercice 3 : test avec plusieurs collaborateurs sur git hub
