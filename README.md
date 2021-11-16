@@ -91,12 +91,6 @@ Isabelle est une Geek formidable
 
 (à suivre pour les tests)
 
----
-test 2
-
-## fausse manip BB
-
 ### Modification git hub
 
 Renvoi des infos sur git hub avec récupération des anciennes
-
