@@ -84,3 +84,13 @@ Le premier n'a pas fonctionné.
 ### Ajout capture après modification github
 
 Exercice 3 : test avec plusieurs collaborateurs sur git hub
+
+## Témoignage
+
+Isabelle est une Geek formidable
+
+(à suivre pour les tests)
+
+### Modification git hub
+
+Renvoi des infos sur git hub avec récupération des anciennes
