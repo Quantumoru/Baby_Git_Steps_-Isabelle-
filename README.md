@@ -76,3 +76,5 @@ Correction des erreurs de fusion suite aux modifcations des 2 branches
 ### Ajout capture écran Kraken
 
 Ajout d'une capture d'écran de l'arborescence de notre repository.
+
+je suis bb
