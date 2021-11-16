@@ -66,3 +66,13 @@ Vérification de la fonction de merge et modification valeur __script__.py
 ### Vérification erreur merge
 
 Test pour vérifier la fusion si des modifications ont été faites dans 2 branches
+
+### Validation des erreurs de fusions
+
+Correction des erreurs de fusion suite aux modifcations des 2 branches
+
+---
+
+### Ajout capture écran Kraken
+
+Ajout d'une capture d'écran de l'arborescence de notre repository.
