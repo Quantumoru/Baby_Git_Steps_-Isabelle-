@@ -78,3 +78,15 @@ Correction des erreurs de fusion suite aux modifcations des 2 branches
 Ajout d'une capture d'écran de l'arborescence de notre repository.
 
 je suis bb
+
+suite du test
+suite du test sur branch isabelle-branch-bb
+
+## Témoignage
+
+Isabelle est une Geek formidable
+
+(à suivre pour les tests)
+
+---
+test 2
